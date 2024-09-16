@@ -3,7 +3,7 @@ This repository contains an interactive Excel dashboard that visualizes Malaysia
 ## Features:
 - Category-Based Analysis: Share of Population in Malaysia, Population by Ethnicity
 - Interactive Filters: Gender, Age Group, Year, State
-- Time Series Analysis: Line Chart of Population of Malaysia Growth
+- Time Series Analysis: Line Chart of Population of Malaysia and its Growth 
 
 ### Download
 You can download the data file directly from the repository by clicking the link below:
